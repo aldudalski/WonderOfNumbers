@@ -1,0 +1,11 @@
+.project
+.settings
+out/
+.DS_Store
+.classpath
+.idea
+.jar
+bin/
+dist/
+build/
+npproject/
