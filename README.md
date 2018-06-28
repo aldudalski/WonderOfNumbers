@@ -1,5 +1,5 @@
 # Wonder of Numbers Java code implementations
-(c) Alek Zdziarski 2015
+by Alek Zdziarski
 
 <br/>Implemented algorithms in Java based on
 <br/>Clifford A. Pickover amazing book "Wonders of Numbers", 2001
