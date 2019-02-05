@@ -2,7 +2,7 @@
 by Alek Zdziarski
 
 <br/>Implemented algorithms in Java based on
-<br/>Clifford A. Pickover amazing book "Wonders of Numbers", 2001
+<br/>Clifford A. Pickover amazing book "Wonders of Numbers"
 
 * CubeMaze solution for shortest route to 202
 * Fibonacci Neighborhood
